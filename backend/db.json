@@ -21,7 +21,7 @@
       "id": 4
     },
     {
-      "name": "Bla bla",
+      "name": "Alterando produto",
       "price": "88.00",
       "id": 5
     },
@@ -29,6 +29,16 @@
       "name": "Cheesecake",
       "price": "57.99",
       "id": 6
+    },
+    {
+      "name": "Bola quadrada",
+      "price": "234.00",
+      "id": 7
+    },
+    {
+      "name": "Bolo de chocolate",
+      "price": "9.99",
+      "id": 8
     }
   ]
 }
