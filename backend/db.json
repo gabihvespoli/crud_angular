@@ -39,6 +39,16 @@
       "name": "Bolo de chocolate",
       "price": "9.99",
       "id": 8
+    },
+    {
+      "name": "Suco de tamarindo",
+      "price": "2.99",
+      "id": 9
+    },
+    {
+      "name": "Aerolito",
+      "price": "28566.99",
+      "id": 10
     }
   ]
 }
